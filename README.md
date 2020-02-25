@@ -41,4 +41,4 @@ $ npm run-script watch
 
 > *This command will watch for any change to be made, and rebuild the project putting the bundle.js file into the back-end/assets/react-files :file_folder: folder*
 
-created by [@elddiablo](https://github.com/elddiablo)
+created by [@nickparov](https://github.com/nickparov)
